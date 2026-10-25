@@ -1,0 +1,6 @@
+interface:
+  display_name: "专四口语思辨陪练"
+  short_description: "英文思辨话题 + 正反参考句型，口头作答后逐轮转写、优化、点评的口语训练"
+  default_prompt: "使用 $oralenglish-skill 开始一轮专四口语思辨训练，先给我一个英文话题和正反参考句型"
+policy:
+  allow_implicit_invocation: true
